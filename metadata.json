@@ -1,0 +1,6 @@
+{
+  "name": "SIAP-Mapel - SMK TELKOM LAMPUNG",
+  "description": "Aplikasi absensi mata pelajaran modern SMK TELKOM LAMPUNG dengan pemindaian QR Code (RPL, TKJ, Animasi, TJAT), integrasi real-time Google Sheets, dan notifikasi kehadiran.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
